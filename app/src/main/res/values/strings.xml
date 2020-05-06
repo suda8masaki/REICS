@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">REICS</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="market_price_search">相場検索</string>
+    <string name="title_activity_market_price_search">MarketPriceSearchActivity</string>
+    <string name="button_search">検索</string>
+    <string name="label_from">取引時期(from)</string>
+    <string name="label_to">取引時期(to)</string>
+    <string name="label_area">都道府県</string>
+    <string name="label_city">市町村</string>
+    <string name="test">test</string>
+    <string name="back">戻る</string>
+    <string name="label_debt">借入金:</string>
+    <string name="label_interest">金利:</string>
+    <string name="label_repayment">返済方法</string>
+    <string name="tab_repayment">返済額</string>
+    <string name="tab_profits">利回り</string>
+    <string name="tab_total_profit_loss">損益通算</string>
+    <string name="label_prepayment">繰上返済</string>
+    <string name="hint_debt">15000000</string>
+    <string name="hint_interest">0.189</string>
+    <string-array name="spinner_repayment">
+        <item>元利均等</item>
+        <item>元金均等</item>
+    </string-array>
+</resources>
